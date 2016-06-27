@@ -4,6 +4,7 @@ Drupal 8 curated list of links to articles and other valuable resources (APIs, t
 ## Theming ##
 
 - [The Drupal 8 Theming Guide // Sander Tirez](http://sqndr.github.io/d8-theming-guide/)
+- [Drupal 8 Theming // Morten Birch @ DrupalCon Barcelona 2015](https://events.drupal.org/barcelona2015/sessions/drupal-8-theming-0)
 - [Why The Big Architectural Changes // Dries Buytaert](http://buytaert.net/why-the-big-architectural-changes-in-drupal-8)
 
 #### Twig ####
