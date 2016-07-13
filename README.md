@@ -1,6 +1,24 @@
 # D8 Curated Links
 Drupal 8 curated list of links to articles and other valuable resources (APIs, tools, etc.).
 
+## Generic ##
+
+- [Everything You Need to Know About the Top Changes in Drupal 8 // Angela Byron](http://www.slideshare.net/AcquiaInc/acquia-d8-webinar "SlideShare Presentation")
+- [Change records for Drupal core](https://www.drupal.org/list-changes/drupal)
+
+
+## API ##
+
+- [API Reference](https://api.drupal.org/api/drupal/8)
+- [Drupal 8 APIs](https://www.drupal.org/developing/api/8)
+
+## Modules ##
+
+- [Creating Drupal 8.x modules](https://www.drupal.org/developing/modules/8)
+- [Converting 7.x modules to 8.x](https://www.drupal.org/update/modules/7/8)
+- [Drupal Module Upgrader](https://www.drupal.org/project/drupalmoduleupgrader)
+
+
 ## Theming ##
 
 - [The Drupal 8 Theming Guide // Sander Tirez](http://sqndr.github.io/d8-theming-guide/)
