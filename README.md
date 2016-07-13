@@ -49,3 +49,4 @@ Drupal 8 curated list of links to articles and other valuable resources (APIs, t
 
 ## Articles ##
 - [10 Things I Learnt Building in Drupal 8 // Sean Hamlin](http://www.pixelite.co.nz/article/10-things-i-learnt-building-in-drupal-8/)
+- Understanding Drupal 8 // cipix.nl : [part 1](https://cipix.nl/understanding-drupal-8-part-1-general-structure-framework "The structure of Drupal 8") / [part 2] (https://cipix.nl/understanding-drupal-8-part-2-service-container "The Service Container") / [part 3](https://cipix.nl/understanding-drupal-8-part-3-routing "Routing") / [part 4](https://cipix.nl/understanding-drupal-8-part-4-other-drupal-8-concepts "Other Drupal 8 concepts")
